@@ -37,7 +37,9 @@ Se realizó una medición de los valores tanto en el centro de cálculo como en 
   - Gravedad: (-0.01, -0.87, -0.50)
   - Longitud: -16.32151
   - Latitud: 28.48296
-
+---
+![Ejecución](https://github.com/AdrianMoraRodriguez/II_sensores/blob/main/sensores1.jpg)
+![Ejecución](https://github.com/AdrianMoraRodriguez/II_sensores/blob/main/sensores2.jpg)
 ---
 
 ### Ejercicio 2: Crear una APK para orientar al samurái, avanzar con aceleración y detenerlo fuera de un rango específico de latitud y longitud
