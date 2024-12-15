@@ -56,5 +56,6 @@ En este ejercicio, el objetivo era crear una APK en Unity que controlara el movi
 
 5. **Detención fuera de un rango geográfico**: El samurái se detuvo cuando el dispositivo se encontraba fuera de un rango de latitud y longitud específico. Esto se implementó verificando la ubicación del dispositivo utilizando `Input.location.lastData.latitude` y `Input.location.lastData.longitude`. Si el dispositivo salía de los límites establecidos, el movimiento del samurái se detenía.
 
-#### Resultados obtenidos:
+#### Resultados obtenidos:  
 
+![Ejecución](https://github.com/AdrianMoraRodriguez/II_sensores/blob/main/samurai.gif)
